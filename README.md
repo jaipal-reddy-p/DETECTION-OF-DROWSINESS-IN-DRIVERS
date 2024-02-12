@@ -32,7 +32,8 @@ Improved Driver Awareness: By raising driver awareness about their drowsy state,
 Results:
 ![image](https://github.com/jaipal-reddy-p/DETECTION-OF-DROWSINESS-IN-DRIVERS/assets/96718212/f01dd2f9-9ba3-4202-b18f-ceb27bdbd1b6)
 
-![image](https://github.com/jaipal-reddy-p/DETECTION-OF-DROWSINESS-IN-DRIVERS/assets/96718212/dd688b2a-26f0-42b7-a826-377540c83142)
+![image](https://github.com/jaipal-reddy-p/DETECTION-OF-DROWSINESS-IN-DRIVERS/assets/96718212/a7e4fc0e-bc45-4938-99bd-fd021335b54f)
+
 
 ![image](https://github.com/jaipal-reddy-p/DETECTION-OF-DROWSINESS-IN-DRIVERS/assets/96718212/1397f5f0-bf2f-4fb1-a5c2-933daabf6776)
 
